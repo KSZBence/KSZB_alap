@@ -6,10 +6,18 @@ h2 {
     font-weight: bold;
 }
 
-.bal {
+.bal img{
     float: left;
 }
 
-.jobb {
+.jobb img{
     float: right;
+}
+
+.torol{
+    clear: both;
+}
+
+p{
+    text-align: justify;
 }
